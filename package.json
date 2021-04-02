@@ -1,0 +1,29 @@
+{
+  "name": "moleculer-firebase-admin",
+  "version": "1.0.0",
+  "description": "Easy to use firebase with moleculer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocduvp/moleculer-firebase-admin.git"
+  },
+  "keywords": [
+    "molerculerjs",
+    "microservices",
+    "firebase",
+    "firebase-admin",
+    "mixins"
+  ],
+  "author": "adward0511@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocduvp/moleculer-firebase-admin/issues"
+  },
+  "homepage": "https://github.com/quocduvp/moleculer-firebase-admin#readme",
+  "dependencies": {
+    "firebase-admin": "^9.6.0"
+  }
+}
